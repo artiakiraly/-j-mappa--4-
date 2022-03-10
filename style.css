@@ -2,4 +2,18 @@ body
 {
     background-color: black;
     color: white;
+    text-shadow:2px 2px 5px greenyellow ;
+
+    
+}
+
+hr{
+
+    color: white;
+    box-shadow: 0 0 5px 3px blueviolet;
+    filter: blur(0.5px);
+
+}
+#lent {
+    margin: 5%;  padding: 5%;  background-color: rgb(20, 6, 1);
 }
